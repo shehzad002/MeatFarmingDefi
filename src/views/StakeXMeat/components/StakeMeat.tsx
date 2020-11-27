@@ -27,7 +27,7 @@ const StakeMeat: React.FC<StakeProps> = ({}) => {
   const allowance = useAllowanceStaking()
   const {onApprove} = useApproveStaking()
 
-  const tokenBalance = useTokenBalance(contractAddresses.meat[3])
+  const tokenBalance = useTokenBalance(contractAddresses.meat[1])
 
   const {onEnter} = useEnter()
   const {onLeave} = useLeave()
