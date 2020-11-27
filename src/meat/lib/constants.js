@@ -24,16 +24,16 @@ export const INTEGERS = {
 
 export const contractAddresses = {
   meat: {
-    3: '0xD61ad8147011037aC18FccE9c95dD439b91615a8',
+    1: '0x34012ec52C4e1De3F8E4ea058158781383e42b6B',
   },
   masterChef: {
-    3: '0x99d70DA0b03Ffcb23d26Ca74d89aF616feB7C204',
+    1: '0xf296a186e046c7dDa6D622B2aba10E0c7574FA0e',
   },
   weth: {
-    3: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
+    1: '0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2',
   },
   xMeat: {
-    3: '0x4fcAbA415286F712E1b41d6b58D0463315FDE90B'
+    1: '0x1F9eE9F5933c5c48746b39e064c70349c77dCbEb'
   }
 }
 
@@ -60,10 +60,10 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      3: '0x9c0b92b74e2aa5c5e09a7a33bac71541b1a4210d',
+      1: '0x9c0b92b74e2aa5c5e09a7a33bac71541b1a4210d',
     },
     tokenAddresses: {
-      3: '0xD61ad8147011037aC18FccE9c95dD439b91615a8',
+      1: '0x34012ec52C4e1De3F8E4ea058158781383e42b6B',
     },
     name: 'Meat Party!',
     symbol: 'MEAT-ETH MLP',
