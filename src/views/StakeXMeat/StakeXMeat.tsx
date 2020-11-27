@@ -17,7 +17,7 @@ const StakeXMeat: React.FC = () => {
   const {
     tokenAddress,
   } = {
-    tokenAddress: contractAddresses.xMeat[3],
+    tokenAddress: contractAddresses.xMeat[1],
   }
 
   const [totalSupply, setTotalSupply] = useState<BigNumber>()
